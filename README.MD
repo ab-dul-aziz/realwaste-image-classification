@@ -5,10 +5,11 @@ A deep learning project aimed at classifying real waste with a focus on assessin
 ## **Table of Contents**
 1. [Introduction](#introduction)
 2. [Data Overview](#data-overview)
-3. [Methodology](#methodology)
-4. [Conclusion](#conclusion)
-5. [Recommendations](#recommendations)
-6. [About Me](#about-me)
+3. [Deployment](#deployment)
+4. [Methodology](#methodology)
+5. [Conclusion](#conclusion)
+6. [Recommendations](#recommendations)
+7. [About Me](#about-me)
 
 
 ## **Introduction**
@@ -17,6 +18,10 @@ Waste is a major issue faced by many countries worldwide. The process required t
 
 ## **Data Overview**
 This dataset obtained from [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/realwaste/) and contains labeled real waste images for training and testing.
+
+
+## **Deployment**
+The deployed model can be accessed at [HuggingFace](https://huggingface.co/spaces/abdul-aziz/waste-classification ).
 
 
 ## **Methodology**  
